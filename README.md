@@ -11,4 +11,4 @@
 
 # ☁️Team
 # Me
-<div><img src="https://avatars.githubusercontent.com/u/113449303?v=4"></div>
+<div style="place-items: center;"><img src="https://avatars.githubusercontent.com/u/113449303?v=4"></div>
